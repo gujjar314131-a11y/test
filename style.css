@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background: snow;
+}
+.anchor-1{
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.first-box{
+    height: 350px;
+    width: 550px;
+    gap: 20px;
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 50px;
+}
+.name>h1{
+    margin: 20px 0px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: skyblue;
+    color: blue;
+    border-radius: 5px;
+    border-color: blue;
+    text-align: center;
+    line-height: 30px;
+    margin: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+.second-box{
+    height: 350px;
+    width: 1150px;
+    gap: 20px;
+    image-rendering: pixelated;
+}
+.second-box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.box{
+    display: flex;
+    margin: 20px;
+}
+.fix{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    border-color: antiquewhite;
+}
+.dropdown{
+    display: flex;
+}
+.box-2{
+    height: 350px;
+    width: auto;
+    background-color: rgb(10, 137, 241);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.p{
+    margin: 20px;
+}
+.work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.city{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.age{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.personal-info{
+    margin: 30px;
+}
+.border{
+    width: 70px;
+     border: 1px solid black;
+    margin-bottom: 50px;
+    margin-left: 230px;
+}
+.box-3{
+    background-color: aqua;
+    width: auto;
+    height: 150px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 20px;
+}
+.border-2{
+     width: 70px;
+     border: 1px solid black;
+    margin-top: 25px;
+    margin-left: 750px;
+}
+.box-4{
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+    margin: 30px;
+}
+.third-box{
+      /* height: 50%; */
+    width: 50%;
+    gap: 20px;
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 110px;
+    padding-bottom: 60px;
+}
+.fourth-box{
+     /* height: 50%; */
+    width: 50%;
+    gap: 20px;
+    background-color: rgb(36, 242, 201);
+    text-align: center;
+    padding-top: 110px;
+    margin-left: 20px;
+    padding-bottom: 60px;
+}
+.edu-icon>i{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.matric{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: large;
+}
+.inter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: large;
+}
+
+.international{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: large;
+}
+.national{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: large;
+}
+.exp-icon{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.box-5{
+    height: ;
+    width: ;
+    background-color: beige;
+}
